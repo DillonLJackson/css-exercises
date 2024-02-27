@@ -1,14 +1,14 @@
 .class {
-    background-color: fuchsia;
+    background-color: rgb(235, 134, 159);
     font-family: Verdana, sans-serif
 }
 
-#title {
+#blue {
     color: blue;
     font-size: 36px;
 }
 
-.number {
+.class1 {
     font-size: 24px;
 }
 
