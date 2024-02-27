@@ -1,0 +1,20 @@
+.class {
+    background-color: fuchsia;
+    font-family: Verdana, sans-serif
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+.number {
+    font-size: 24px;
+}
+
+#lol {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
